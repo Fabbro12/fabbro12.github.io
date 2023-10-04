@@ -1,0 +1,25 @@
+
+main {
+    text-align: center;
+    margin-top: 100px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+figure {
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+figcaption {
+    font-size: 0.8em;
+}
+
+#picture {
+    max-width: 50%;
+    margin: 100px auto;
+}
